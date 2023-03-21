@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Science & a large sprinkle of Software Enginering**
 
-- 💬 Ask me about **Python, SQL, PowerBI and someother things...**
+- 💬 Ask me about **Python, SQL, PowerBI and some other things...**
 
 - 📄 Want to know about my experiences? Let's get on a chat!
 
