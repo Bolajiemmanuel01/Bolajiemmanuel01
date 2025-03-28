@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bolaji Emmanuel...</h1>
-<h5 align="center">A Data Analyst, aspiring Geospatial Analyst. I help businesses and stakeholders make data-driving decisions to drive business growth.</h5>
+<h5 align="center">A Data Analyst and Database Administrator, aspiring Geospatial Analyst. I help businesses and stakeholders make data-driving decisions to drive business growth.</h5>
 
 <p align="center"> <a href="https://www.linkedin.com/in/bolaji-emmanuel-ayodeji-7a3466155"><img src="https://img.shields.io/badge/-Connect With Bolaji%20Emmanuel-blue?logo=linkedin&style=for-the-badge" alt="Bolaji Emmanuel" /></a>
 <p align="center"> <a href="https://twitter.com/BolajiEmmanue14?t=QxlQCSH46anJxuGZtk0bdA&s=09"><img src="https://img.shields.io/badge/-Follow Bolaji_Emmanuel-white?logo=twitter&style=for-the-badge" alt="Bolaji_Emmanuel" /></a> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Anything related to Data and Databases
 
-- 🌱 I’m currently learning **Power Platform, and Geospatial Analysis*
+- 🌱 I’m currently learning **Power Platform, and Geospatial Analysis**
 
 - 💬 Ask me about **Python, Excel, R, SQL, Databases, PowerBI and some other things...**
 
