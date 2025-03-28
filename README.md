@@ -7,11 +7,11 @@
 
 
 
-- 🔭 I’m currently working on Anything related to data
+- 🔭 I’m currently working on Anything related to Data and Databases
 
-- 🌱 I’m currently learning **Data Science & a large sprinkle of Software Enginering**
+- 🌱 I’m currently learning **Power Platform, and Geospatial Analysis*
 
-- 💬 Ask me about **Python, SQL, PowerBI and some other things...**
+- 💬 Ask me about **Python, Excel, R, SQL, Databases, PowerBI and some other things...**
 
 - 📄 Want to know about my experiences? Let's get on a chat!
 
